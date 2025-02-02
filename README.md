@@ -1,2 +1,3 @@
 # init.lua
-Neovim Dotfiles
+
+⚠️ Hacky Lua and configuration ahead - viewer discretion is advised.
